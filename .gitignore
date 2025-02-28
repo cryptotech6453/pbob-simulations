@@ -7,3 +7,8 @@ venv/
 # Jupyter Notebook
 *.ipynb_checkpoints/
 
+# IDE и системные файлы
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
