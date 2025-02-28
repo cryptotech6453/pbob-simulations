@@ -1,1 +1,7 @@
+# Python кеш и виртуальное окружение
+__pycache__/
+*.pyc
+venv/
+.env
+
 
